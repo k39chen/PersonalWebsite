@@ -1,0 +1,25 @@
+{
+  "Common": {
+    "about": "About",
+    "projects": "Projects",
+    "contact": "Contact"
+  },
+  "Splash": {
+    "front_end_developer": "Front-End Developer",
+    "coding_for": "Coding for %1$s"
+  },
+  "Time": {
+    "year": "year",
+    "years": "years",
+    "months": "months",
+    "month": "month",
+    "days": "days",
+    "day": "day",
+    "hours": "hours",
+    "hour": "hour",
+    "minutes": "minutes",
+    "minute": "minute",
+    "seconds": "seconds",
+    "second": "second"
+  }
+}
