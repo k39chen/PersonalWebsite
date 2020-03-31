@@ -12,6 +12,7 @@
     "moment": "^2.24.0",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
+    "react-icons": "^3.9.0",
     "react-scripts": "3.4.1",
     "sprintf": "^0.1.5",
     "styled-components": "^5.0.1"

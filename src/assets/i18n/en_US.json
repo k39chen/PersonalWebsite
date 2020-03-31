@@ -2,11 +2,19 @@
   "Common": {
     "about": "About",
     "projects": "Projects",
-    "contact": "Contact"
+    "experience": "Experience",
+    "contact": "Contact",
+    "see_experience": "See Experience",
+    "learn_more": "Learn More",
+    "resume": "Resumé",
+    "linkedin": "LinkedIn",
+    "github": "GitHub",
+    "dark_mode": "Dark Mode",
+    "light_mode": "Light Mode"
   },
   "Splash": {
-    "front_end_developer": "Front-End Developer",
-    "coding_for": "Coding for %1$s"
+    "front_end_web_developer": "Front-End Web Developer",
+    "actively_coding_for": "Actively coding for"
   },
   "Time": {
     "year": "year",

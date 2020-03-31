@@ -1,13 +1,13 @@
 import React from 'react';
 import Swerve from '../components/Swerve';
 import styled from 'styled-components';
-import { white, lightGray } from '../styles/colors';
+import { white, superLightGray } from '../styles/colors';
 
-export const Container = styled.section`
+const Container = styled.section`
   position: relative;
-  height: 40vh;
-  padding: 3em 0;
-  background-color: ${lightGray};
+  min-height: 40vh;
+  padding: 1em 0 15vh;
+  background-color: ${superLightGray};
   text-align: center;
 
   &.even {
@@ -19,13 +19,13 @@ export const Container = styled.section`
   }
 `;
 
-export const SectionTitle = styled.h1`
-  text-transform: uppercase;
+const Content = styled.div`
+  text-align: center;
 `;
 
 export default class Splash extends React.Component {
   static defaultProps = {
-    title: 'test',
+    id: '',
     odd: false,
     even: false,
     last: false
@@ -33,9 +33,14 @@ export default class Splash extends React.Component {
 
   render() {
     return (
-      <Container className={this._computeContainerStyles(this.props.even, this.props.last)}>
-        <SectionTitle>{this.props.title}</SectionTitle>
+      <Container
+        id={this.props.id}
+        className={this._computeContainerStyles(this.props.even, this.props.last)}>
+
+        <Content>{this.props.content}</Content>
+
         <Swerve classes="swerve" inverted={this.props.odd} />
+
       </Container>
     );
   }

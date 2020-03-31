@@ -3,7 +3,7 @@ html, body {
   padding: 0;
   font-family: 'Open Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;
   color: #595959;
-  background: #eee;
+  background: #fff;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
@@ -11,4 +11,18 @@ html, body {
 h1 {
   margin: 0;
   padding: 0;
+}
+
+.section-title {
+  margin-bottom: 2em;
+  font-size: calc(16px + 1vmin);
+  text-transform: uppercase;
+}
+
+p {
+  line-height: 1.75em;
+}
+
+[hidden] {
+  display: none !important;
 }
