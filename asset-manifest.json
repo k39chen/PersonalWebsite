@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.e746fa2e.chunk.css",
-    "main.js": "/portfolio/static/js/main.f51faed6.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.f51faed6.chunk.js.map",
-    "runtime-main.js": "/portfolio/static/js/runtime-main.075c0788.js",
-    "runtime-main.js.map": "/portfolio/static/js/runtime-main.075c0788.js.map",
-    "static/js/2.c9471a5a.chunk.js": "/portfolio/static/js/2.c9471a5a.chunk.js",
-    "static/js/2.c9471a5a.chunk.js.map": "/portfolio/static/js/2.c9471a5a.chunk.js.map",
-    "index.html": "/portfolio/index.html",
-    "precache-manifest.2aab1f3c268cb328b288d53d4cf20cd2.js": "/portfolio/precache-manifest.2aab1f3c268cb328b288d53d4cf20cd2.js",
-    "service-worker.js": "/portfolio/service-worker.js",
-    "static/css/main.e746fa2e.chunk.css.map": "/portfolio/static/css/main.e746fa2e.chunk.css.map",
-    "static/js/2.c9471a5a.chunk.js.LICENSE.txt": "/portfolio/static/js/2.c9471a5a.chunk.js.LICENSE.txt",
-    "static/media/KC_Logo.svg": "/portfolio/static/media/KC_Logo.a176ebc6.svg"
+    "main.css": "/Portfolio/static/css/main.e746fa2e.chunk.css",
+    "main.js": "/Portfolio/static/js/main.b88a8aa6.chunk.js",
+    "main.js.map": "/Portfolio/static/js/main.b88a8aa6.chunk.js.map",
+    "runtime-main.js": "/Portfolio/static/js/runtime-main.efb1fe8d.js",
+    "runtime-main.js.map": "/Portfolio/static/js/runtime-main.efb1fe8d.js.map",
+    "static/js/2.0ddee0ce.chunk.js": "/Portfolio/static/js/2.0ddee0ce.chunk.js",
+    "static/js/2.0ddee0ce.chunk.js.map": "/Portfolio/static/js/2.0ddee0ce.chunk.js.map",
+    "index.html": "/Portfolio/index.html",
+    "precache-manifest.016dd2cec361a63a2de91f7208e983d5.js": "/Portfolio/precache-manifest.016dd2cec361a63a2de91f7208e983d5.js",
+    "service-worker.js": "/Portfolio/service-worker.js",
+    "static/css/main.e746fa2e.chunk.css.map": "/Portfolio/static/css/main.e746fa2e.chunk.css.map",
+    "static/js/2.0ddee0ce.chunk.js.LICENSE.txt": "/Portfolio/static/js/2.0ddee0ce.chunk.js.LICENSE.txt",
+    "static/media/KC_Logo.svg": "/Portfolio/static/media/KC_Logo.a176ebc6.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.075c0788.js",
-    "static/js/2.c9471a5a.chunk.js",
+    "static/js/runtime-main.efb1fe8d.js",
+    "static/js/2.0ddee0ce.chunk.js",
     "static/css/main.e746fa2e.chunk.css",
-    "static/js/main.f51faed6.chunk.js"
+    "static/js/main.b88a8aa6.chunk.js"
   ]
 }
