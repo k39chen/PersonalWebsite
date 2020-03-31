@@ -7,7 +7,7 @@ Kevin Chen's personal website showcasing web technology and side projects.
 
 Usage
 ------------
-Access the website by [clicking here](http://k39chen.github.io/portfolio).
+Access the website by [clicking here](http://k39chen.github.io/Portfolio).
 
 This personal website is hosted on Github Pages and can be set up by following [this guide](https://dev.to/yuribenjamin/how-to-deploy-react-app-in-github-pages-2a1f).
 
