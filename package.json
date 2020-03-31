@@ -1,6 +1,6 @@
 {
-  "homepage": "http://k39chen.github.io/PersonalWebsite",
-  "name": "personal-website",
+  "homepage": "http://k39chen.github.io/portfolio",
+  "name": "portfolio",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
